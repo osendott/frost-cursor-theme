@@ -3,11 +3,12 @@ Cursor theme to match my Frost GTK, Gnome-Shell, & Icon themes.
 
 Currently under heavy development.
 
-Download Frost-Cursor-1.0-pre.tar.gz and extract to ~/.icons, apply via tweak-tool.
-I randomly encountered a bug in which the pointer would flicker back and forth 
-between the frost/arch blue color and the previous orange color from the original
-cursors. If you encounter this, please let me know the bug is confirmed so I can start
-tracking it down. Thanks!
+Frost Cursor theme has now been released to the AUR!
+
+yaourt frost-cursor
+
+alternatively, you can download frost-cursors.tar.gz from this repo and extract to your ~/.icons directory.
+use Tweak-Tool to set cursor theme to Frost-Cursors
 
 ## Current design preview
 
